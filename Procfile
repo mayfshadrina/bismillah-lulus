@@ -1,0 +1,1 @@
+web: gunicorn semoga_lulus.wsgi --log-file -
